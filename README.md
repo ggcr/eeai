@@ -22,7 +22,7 @@ Optionally, first create a clean environment with pytorch installed. E.g., with 
 
 Then,
 ```
-git clone https://github.com/optas/eeai.git
+git clone https://github.com/affectivetools/eeai.git
 cd eeai
 pip install -e .
 ```
